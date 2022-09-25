@@ -1,0 +1,27 @@
+.container{
+   
+}
+body{
+    background-color: rgb(143, 215, 215);
+}
+.title{
+    text-align: center;
+}
+.name{
+    text-align: center;
+}
+header div{
+    text-align: center;
+}
+header h2{
+    border-bottom: solid 2px purple;
+}
+main ul, main ol{
+    padding-left: 1%;
+}
+main h3, header h3{
+    padding-left: 3em;
+}
+img{
+    border-radius: 5em;
+}
